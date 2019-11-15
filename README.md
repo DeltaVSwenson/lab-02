@@ -5,8 +5,8 @@ Classes, Inheritance, Functional Programming
 ### Author: Student/Group Name
 Jacob Swenson
 ### Links and Resources
-* [submission PR]()
-* [travis](https://travis-ci.com/DeltaVSwenson/lab-14)
+* [submission PR](https://github.com/DeltaVSwenson/lab-02/pull/1)
+* [travis]()
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
